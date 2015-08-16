@@ -4,6 +4,7 @@ To use Malti-View on the Raspberry Pi you must QT 5.5 from build from source.
 The following script from: http://tomsik.eu/node/428 . Has been updated and tweaked
 but is still a work in progress. Some links are broken. 
 
+```
 
 #!/bin/bash
 #This script will download, set up, compile QT5, and set up the SDCard image ready to use.
@@ -229,3 +230,5 @@ prepcctools
 configureandmakeqtbase
 installqtbase
 makemodules
+
+```
