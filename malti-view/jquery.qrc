@@ -1,2 +1,5 @@
-<RCC/>
-
+<RCC>
+    <qresource prefix="/">
+        <file>jquery.min.js</file>
+    </qresource>
+</RCC>

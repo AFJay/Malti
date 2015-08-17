@@ -4,9 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
-
-greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+QT       += webkitwidgets network widgets
 
 TARGET = malti-view
 TEMPLATE = app
@@ -15,4 +13,14 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  = mainwindow.h
+
+RESOURCES += \
+    jquery.qrc
+
+DISTFILES +=
+
+#Raspberry Pi Stuff
+target.path = /home/pi/malti-view
+TARGET = malti-view
+INSTALLS += target

@@ -1,15 +1,30 @@
-#ifndef MAINWINDOW_H
-#define MAINWINDOW_H
+#include <QtWidgets>
 
-#include <QMainWindow>
+class QWebView;
+QT_BEGIN_NAMESPACE
+class QLineEdit;
+QT_END_NAMESPACE
 
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
 
 public:
-    MainWindow(QWidget *parent = 0);
-    ~MainWindow();
-};
+    MainWindow(const QUrl& url);
 
-#endif // MAINWINDOW_H
+protected slots:
+
+    void adjustLocation();
+    void changeLocation();
+    void adjustTitle();
+    void setProgress(int p);
+    void finishLoading(bool);
+    void handleLinkRequest(QUrl url);
+
+private:
+    QString jQuery;
+    QWebView *view;
+    QLineEdit *locationEdit;
+    int progress;
+
+};
