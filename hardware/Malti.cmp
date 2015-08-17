@@ -1,0 +1,723 @@
+Cmp-Mod V01 Genere par PcbNew le 3/22/2015 1:51:37 PM
+
+BeginCmp
+TimeStamp = 550F0230
+Path = /5502684F
+Reference = BT1;
+ValeurCmp = LIPO BATTERY (1.8-5V);
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0236
+Path = /54FDA4C9
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F023C
+Path = /54FDA5F1
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0242
+Path = /54FBDCA0
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0248
+Path = /54FDAA62
+Reference = C4;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F024E
+Path = /54FDAB3A
+Reference = C5;
+ValeurCmp = 100uF 6V;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0258
+Path = /54FACF75
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Blackbelt:PJ-002AH-SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F025E
+Path = /54FBDD34
+Reference = D1;
+ValeurCmp = ORANGE;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0264
+Path = /54FBDDA5
+Reference = D2;
+ValeurCmp = GREEN;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F026A
+Path = /54FD9042
+Reference = L1;
+ValeurCmp = 6.8uH WE-PD;
+IdModule  = Blackbelt:InductorWEPDSMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0276
+Path = /5504F4FD
+Reference = P1;
+ValeurCmp = OUTPUT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F027E
+Path = /5517D555
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0286
+Path = /5517DF85
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F028C
+Path = /5500EABB
+Reference = R1;
+ValeurCmp = 340K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0292
+Path = /550462A8
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0298
+Path = /54FDA7C8
+Reference = R3;
+ValeurCmp = 1.87M;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F029E
+Path = /54FDA9CD
+Reference = R4;
+ValeurCmp = 340K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02A4
+Path = /55035527
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02AA
+Path = /54FBDEE9
+Reference = R6;
+ValeurCmp = 340;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02B0
+Path = /54FBDFE2
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02B6
+Path = /54FDB0FA
+Reference = R8;
+ValeurCmp = 1.87M;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02BC
+Path = /54FDB04E
+Reference = R9;
+ValeurCmp = 200K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02C2
+Path = /54FC10BA
+Reference = R10;
+ValeurCmp = 2K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02CA
+Path = /550E8D5B
+Reference = SW1;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02D2
+Path = /550E9945
+Reference = SW2;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02DA
+Path = /550EAD37
+Reference = SW3;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02E2
+Path = /550EAD5B
+Reference = SW4;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02EA
+Path = /550ECC9C
+Reference = SW5;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02F2
+Path = /550ECCC0
+Reference = SW6;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F02FA
+Path = /550ECCE4
+Reference = SW7;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0302
+Path = /550ECD08
+Reference = SW8;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F030A
+Path = /550ED5F3
+Reference = SW9;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0312
+Path = /550E915A
+Reference = SW10;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F031A
+Path = /550E994B
+Reference = SW11;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0322
+Path = /550EAD3D
+Reference = SW12;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F032A
+Path = /550EAD61
+Reference = SW13;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0332
+Path = /550ECCA2
+Reference = SW14;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F033A
+Path = /550ECCC6
+Reference = SW15;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0342
+Path = /550ECCEA
+Reference = SW16;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F034A
+Path = /550ECD0E
+Reference = SW17;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0352
+Path = /550ED5F9
+Reference = SW18;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F035A
+Path = /550E91F3
+Reference = SW19;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0362
+Path = /550E9951
+Reference = SW20;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F036A
+Path = /550EAD43
+Reference = SW21;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0372
+Path = /550EAD67
+Reference = SW22;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F037A
+Path = /550ECCA8
+Reference = SW23;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0382
+Path = /550ECCCC
+Reference = SW24;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F038A
+Path = /550ECCF0
+Reference = SW25;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0392
+Path = /550ECD14
+Reference = SW26;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F039A
+Path = /550ED5FF
+Reference = SW27;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03A2
+Path = /550E92D9
+Reference = SW28;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03AA
+Path = /550E9957
+Reference = SW29;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03B2
+Path = /550EAD49
+Reference = SW30;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03BA
+Path = /550EAD6D
+Reference = SW31;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03C2
+Path = /550ECCAE
+Reference = SW32;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03CA
+Path = /550ECCD2
+Reference = SW33;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03D2
+Path = /550ECCF6
+Reference = SW34;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03DA
+Path = /550ECD1A
+Reference = SW35;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03E2
+Path = /550ED605
+Reference = SW36;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03EA
+Path = /550E92DF
+Reference = SW37;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03F2
+Path = /550E995D
+Reference = SW38;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F03FA
+Path = /550EAD4F
+Reference = SW39;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0402
+Path = /550EAD73
+Reference = SW40;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F040A
+Path = /550ECCB4
+Reference = SW41;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0412
+Path = /550ECCD8
+Reference = SW42;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F041A
+Path = /550ECCFC
+Reference = SW43;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0422
+Path = /550ECD20
+Reference = SW44;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F042A
+Path = /550ED60B
+Reference = SW45;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0432
+Path = /550E92E5
+Reference = SW46;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F043A
+Path = /550E9963
+Reference = SW47;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0442
+Path = /550EAD55
+Reference = SW48;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F044A
+Path = /550EAD79
+Reference = SW49;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0452
+Path = /550ECCBA
+Reference = SW50;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F045A
+Path = /550ECCDE
+Reference = SW51;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0462
+Path = /550ECD02
+Reference = SW52;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F046A
+Path = /550ECD26
+Reference = SW53;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0472
+Path = /550ED611
+Reference = SW54;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F047A
+Path = /550EC25C
+Reference = SW55;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0482
+Path = /550EC262
+Reference = SW56;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F048A
+Path = /550EC268
+Reference = SW57;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0492
+Path = /550EC26E
+Reference = SW58;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F04A0
+Path = /55057DC2
+Reference = SW63;
+ValeurCmp = SPST;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F04C6
+Path = /54F5354B
+Reference = U1;
+ValeurCmp = TCA8418;
+IdModule  = Blackbelt:TCA8418;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F04E4
+Path = /54FBD61B
+Reference = U2;
+ValeurCmp = TPS61090;
+IdModule  = Blackbelt:TPS6109;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F04ED
+Path = /54FB290C
+Reference = U3;
+ValeurCmp = MCP73831;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F075E
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F075F
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0760
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F0761
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 550F049A
+Path = /550ECD2C
+Reference = SW59;
+ValeurCmp = SW_PushER;
+IdModule  = Blackbelt:EVQPA_Half;
+EndCmp
+
+EndListe
