@@ -1,3 +1,4 @@
+
 #include <QtWidgets>
 
 class QWebView;
@@ -28,3 +29,4 @@ private:
     int progress;
 
 };
+
